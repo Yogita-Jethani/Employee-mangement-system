@@ -2,7 +2,7 @@
 
 ###Login Page
 ### Login Page
-![Screenshot]()
+![Screenshot](https://github.com/Yogita-Jethani/Employee-mangement-system/blob/master/Employee-Mangement-Login.gif)
 
 ###Employee Management
 ### Employee Management
