@@ -6,4 +6,4 @@
 
 ###Employee Management
 ### Employee Management
-![Screenshot]()
+![Screenshot](https://github.com/Yogita-Jethani/Employee-mangement-system/blob/master/Employee%20Mangement.gif)
